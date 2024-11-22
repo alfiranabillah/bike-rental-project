@@ -5,7 +5,7 @@ import plotly.express as px
 import streamlit as st
 
 
-df = pd.read_csv("/content/day_cleaned.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/alfiranabillah/bike-rental-project/main/dashboard/day_cleaned.csv")
 df['dteday'] = pd.to_datetime(df['dteday'])
 
 st.set_page_config(page_title="Bike Rental Dashboard",
