@@ -1,3 +1,2 @@
-# Bike Rental [Analysis
-](https://bikeshare-rental.streamlit.app/)
-https://bikeshare-rental.streamlit.app/
+# Bike Rental Analysis
+This is a final project from Dicoding in the "Belajar Analisis Data Dengan Python" course to make analysis and create a dashboard from the bike sharing dataset. See the detail of this analysis and visualization on the [notebook](https://bikeshare-rental.streamlit.app/)
