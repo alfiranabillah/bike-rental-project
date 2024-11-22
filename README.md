@@ -1,5 +1,5 @@
 # Bike Rental Analysis
-This is a final project from Dicoding in the "Belajar Analisis Data Dengan Python" course to make analysis and create a dashboard from the bike sharing dataset. See the detail of this analysis and visualization on the [notebook](dashboard/app.py) In the notebook file, I attached the way I did the analysis from Data Wrangling, Exploratory Data Analysis, and Data Visualization. 
+This is a final project from Dicoding in the "Belajar Analisis Data Dengan Python" course to make analysis and create a dashboard from the bike sharing dataset. See the detail of this analysis and visualization on the [notebook](bike_rental.ipynb) In the notebook file, I attached the way I did the analysis from Data Wrangling, Exploratory Data Analysis, and Data Visualization. 
 
 ## Project Work Cycle
 ### 1. Data Wrangling:
